@@ -5,7 +5,7 @@ For Figure 1, see code_Figure1_lightver.ipynb
 
 For Figure 2, see Code_for_Fig2_Ext_Fig_7.ipynb
 
-For Figure 3, see code_figure3.ipynb (panel a)
+For Figure 3, see code_figure3.ipynb (panel a), Code_Figure3_b,_d.ipynb (for panel b, d)
 
 For Extended Data Figure 6, see Code_for Extended data Fig.6_SI Fig.1.ipynb
 
