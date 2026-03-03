@@ -19,14 +19,17 @@
    - 1) Log-in Google Colaboratory and Connect the data folder with your Google drive folder to use the data we have shared with the link above (top)
      2) Mount your Google Drive
      3) Run the codes following the orders.
-  - Other remarks:
+  
+  - If you want to find specific codes for specific figures/analysis, see below:
     - For Figure 1, see Figure1_final.ipynb
     - Figure 2 was created in QGIS software. 
-    - For Figure 3, see Figure 3_light ver.ipynb
+    - For Figure 3, see FMC_Figure_3_&_SI_2_2.ipynb
     - For Figure 4a, see XMC_Fig4(a)_quadrant.ipynb. Figure 4b was created in QGIS software.
     - For Figure 5, see Figure 5_Box Plot Analysis (final).ipynb
     - For Figure 6, see Figure_6_CO2_emission_per_typology.ipynb
       
+  
+  
   - previous preprint ver.
     - For Figure 1, see code_Figure1_lightver.ipynb
     - For Figure 2, see Code_for_Fig2_Ext_Fig_7.ipynb
