@@ -22,15 +22,14 @@
   
   - If you want to find specific codes for specific figures/analysis, see below:
     - For Figure 1, see Figure1_final.ipynb
-    - Figure 2 was created in QGIS software. 
+    - Figure 2 & Figure 4b were created in QGIS software. 
     - For Figure 3, see FMC_Figure_3_&_SI_2_2.ipynb
-    - For Figure 4a, see XMC_Fig4(a)_quadrant.ipynb. Figure 4b was created in QGIS software.
+    - For Figure 4a, see XMC_Fig4(a)_quadrant.ipynb.
     - For Figure 5, see Figure 5_Box Plot Analysis (final).ipynb
     - For Figure 6, see Figure_6_CO2_emission_per_typology.ipynb
       
-  
-  
-  - previous preprint ver.
+  --------------------------------------------------------------------------------------
+    - previous preprint ver.(Research Square initial upload ver.)
     - For Figure 1, see code_Figure1_lightver.ipynb
     - For Figure 2, see Code_for_Fig2_Ext_Fig_7.ipynb
     - For Figure 3, see code_figure3.ipynb (panel a), Code_Figure3_b,_d.ipynb (for panel b, d)
